@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 10px;
+}
+
+#container-item {
+  text-align: center;
+}
+
+#go-button {
+  background-color: #0fbb0f;
+}
+
+#sort-button {
+  background-color: #0fbb0f;
+}
